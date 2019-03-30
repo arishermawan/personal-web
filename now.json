@@ -1,0 +1,1 @@
+{"version":2,"name":"pesonal-web","builds":[{"src":"index.html","use":"@now/html-minifier"}]}
